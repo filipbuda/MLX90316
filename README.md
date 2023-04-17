@@ -16,6 +16,7 @@ Library for interfacing Teensy 4.1 and MLX90316 rotary position sensor IC.
 
 ### Software
 * Teensy compatible IDE
+* Arduino Standard Libraries 
 
 ## Instructions
 
